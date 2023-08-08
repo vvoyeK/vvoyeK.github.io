@@ -1,0 +1,59 @@
+First commit test
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   .github/FUNDING.yml
+#	new file:   .github/workflows/nodejs.yml
+#	new file:   .prettierrc
+#	new file:   README.md
+#	new file:   backend/.gitignore
+#	new file:   backend/Dockerfile
+#	new file:   backend/go.mod
+#	new file:   backend/go.sum
+#	new file:   backend/main.go
+#	new file:   backend/main_test.go
+#	new file:   docker-compose.prod.yml
+#	new file:   docker-compose.test.yml
+#	new file:   docker-compose.yml
+#	new file:   frontend/.babelrc
+#	new file:   frontend/.env.development
+#	new file:   frontend/.env.production
+#	new file:   frontend/.gitignore
+#	new file:   frontend/README.md
+#	new file:   frontend/next-env.d.ts
+#	new file:   frontend/package.json
+#	new file:   frontend/public/ads.txt
+#	new file:   frontend/public/favicon.ico
+#	new file:   frontend/public/icon.png
+#	new file:   frontend/src/components/Button/Button.module.css
+#	new file:   frontend/src/components/Button/Button.tsx
+#	new file:   frontend/src/components/Button/index.ts
+#	new file:   frontend/src/components/ModalDialog/ModalDialog.tsx
+#	new file:   frontend/src/components/ModalDialog/index.ts
+#	new file:   frontend/src/components/Portal/Portal.tsx
+#	new file:   frontend/src/components/Portal/index.ts
+#	new file:   frontend/src/components/Textarea/Textarea.module.css
+#	new file:   frontend/src/components/Textarea/Textarea.tsx
+#	new file:   frontend/src/components/Textarea/index.ts
+#	new file:   frontend/src/features/ads/AdBlockGuard.tsx
+#	new file:   frontend/src/features/ads/AdCard.tsx
+#	new file:   frontend/src/features/header/Header.tsx
+#	new file:   frontend/src/features/header/index.ts
+#	new file:   frontend/src/features/top/Top.tsx
+#	new file:   frontend/src/features/top/index.ts
+#	new file:   frontend/src/pages/_app.tsx
+#	new file:   frontend/src/pages/_document.tsx
+#	new file:   frontend/src/pages/global.css
+#	new file:   frontend/src/pages/index.tsx
+#	new file:   frontend/tsconfig.json
+#	new file:   frontend/yarn.lock
+#	new file:   my.code-workspace
+#	new file:   scripts/push_to_gcs_as_production_build.sh
+#	new file:   scripts/push_to_gcs_as_staging_build.sh
+#
